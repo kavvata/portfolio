@@ -13,7 +13,8 @@ function Navbar() {
               href="/portfolio/"
               className="hover:text-zinc-100 transition-colors"
             >
-              <span className="font-kare text-lg">[h]</span> Home
+              <span className="font-kare text-lg">[h]</span>{" "}
+              <span className="hidden md:inline">Home</span>
             </a>
           </li>
           <li>
@@ -21,7 +22,8 @@ function Navbar() {
               href="/portfolio/experience/"
               className="hover:text-zinc-100 transition-colors"
             >
-              <span className="font-kare text-lg">[e]</span> Expêriencia
+              <span className="font-kare text-lg">[e]</span>
+              <span className="hidden md:inline">Experiência</span>
             </a>
           </li>
           <li>
@@ -29,7 +31,8 @@ function Navbar() {
               href="/portfolio/experience/"
               className="hover:text-zinc-100 transition-colors"
             >
-              <span className="font-kare text-lg">[p]</span> Projetos
+              <span className="font-kare text-lg">[p]</span>
+              <span className="hidden md:inline">Projetos</span>
             </a>
           </li>
           <li>
@@ -37,7 +40,8 @@ function Navbar() {
               href="/portfolio/blog/"
               className="hover:text-zinc-100 transition-colors"
             >
-              <span className="font-kare text-lg">[e]</span> Blog
+              <span className="font-kare text-lg">[b]</span>
+              <span className="hidden md:inline">Blog</span>
             </a>
           </li>
           <li>
@@ -45,7 +49,8 @@ function Navbar() {
               href="/portfolio/about/"
               className="hover:text-zinc-100 transition-colors"
             >
-              <span className="font-kare text-lg">[s]</span> Sobre
+              <span className="font-kare text-lg">[s]</span>
+              <span className="hidden md:inline">Sobre</span>
             </a>
           </li>
         </ul>
