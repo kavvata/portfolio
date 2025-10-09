@@ -26,8 +26,10 @@ const GameOfLife: React.FC = () => {
       );
   };
 
-  const getAliveChar = (): string => {
-    return String.fromCharCode(Math.floor(Math.random() * 94) + 33);
+  const getAscii = (cell: boolean): string => {
+    return cell
+      ? String.fromCharCode(Math.floor(Math.random() * 94) + 33)
+      : "'";
   };
 
   const countNeighbors = (grid: boolean[][], x: number, y: number): number => {
@@ -70,7 +72,7 @@ const GameOfLife: React.FC = () => {
     const calculateCols = () => {
       if (containerRef.current) {
         const containerWidth = containerRef.current.offsetWidth;
-        const cellSize = 12;
+        const cellSize = 14;
         const newCols = Math.max(1, Math.floor(containerWidth / cellSize));
         setCols(newCols);
       }
@@ -105,20 +107,20 @@ const GameOfLife: React.FC = () => {
   };
 
   return (
-    <div className="p-4 w-full">
+    <div className="w-full min-h-44 ">
       <div
         onDoubleClick={() => handleReset()}
         ref={containerRef}
-        className="font-kare leading-tight w-full"
+        className="font-kare leading-tight w-full overflow-hidden"
       >
         {grid.map((row, i) => (
           <div key={i} className="flex justify-center w-full">
             {row.map((cell, j) => (
               <span
                 key={`${i}-${j}`}
-                className="inline-block flex-1 text-center select-none"
+                className={`inline-block min-w-4 md:min-w-0 flex-1 text-center select-none ${cell ? "" : "text-zinc-700"}`}
               >
-                {cell ? getAliveChar() : ""}
+                {getAscii(cell)}
               </span>
             ))}
           </div>
