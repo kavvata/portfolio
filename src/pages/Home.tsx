@@ -4,8 +4,8 @@ import { KarenBold } from "../components/KarenBold";
 function Home() {
   return (
     <main className="flex-grow space-y-14 px-4 py-24 leading-relaxed">
-      <section className="flex flex-col lg:flex-row lg:gap-8 lg:mx-16">
-        <div className="flex flex-col mb-16 lg:mb-0 max-w-72">
+      <div className="flex flex-col lg:flex-row lg:gap-8 lg:mx-16">
+        <section className="flex flex-col mb-16 lg:mb-0 max-w-72">
           <header className="">
             <h1 className="font-kare text-5xl font-bold text-nowrap">
               kavvata
@@ -17,7 +17,7 @@ function Home() {
               <KarenBold>curiosidade</KarenBold>.{" "}
             </p>
           </header>
-        </div>
+        </section>
 
         <section className="flex flex-col gap-4 flex-grow max-w-7xl">
           <GameOfLife />
@@ -31,7 +31,7 @@ function Home() {
             </p>
           </div>
         </section>
-      </section>
+      </div>
     </main>
   );
 }
