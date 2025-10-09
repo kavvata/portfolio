@@ -6,7 +6,7 @@ const SPEED = 115;
 
 const GameOfLife: React.FC = () => {
   const [grid, setGrid] = useState<boolean[][]>([]);
-  const [running, _setRunning] = useState(true);
+  const [running, setRunning] = useState(true);
   const [cols, setCols] = useState(COLS);
   const containerRef = useRef<HTMLDivElement>(null);
 
@@ -99,9 +99,18 @@ const GameOfLife: React.FC = () => {
     return <div className="p-4">Loading...</div>;
   }
 
+  const handleReset = () => {
+    setGrid(randomizeGrid());
+    setRunning(true);
+  };
+
   return (
     <div className="p-4 w-full">
-      <div ref={containerRef} className="font-kare leading-tight w-full">
+      <div
+        onDoubleClick={() => handleReset()}
+        ref={containerRef}
+        className="font-kare leading-tight w-full"
+      >
         {grid.map((row, i) => (
           <div key={i} className="flex justify-center w-full">
             {row.map((cell, j) => (
