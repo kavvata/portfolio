@@ -4,3 +4,7 @@
 ul li {
   list-style-type: none;
 }
+
+.font-kare {
+  font-family: "Chicago Kare", ui-sans-serif, system-ui, sans-serif;
+}

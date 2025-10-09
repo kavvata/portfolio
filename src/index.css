@@ -1,5 +1,11 @@
-
 @import "tailwindcss";
+
+@font-face {
+  font-family: "Chicago Kare";
+  src: url("./assets/ChicagoKare-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
 
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
