@@ -1,4 +1,5 @@
 import GameOfLife from "../components/GameOfLife";
+import { KarenBold } from "../components/KarenBold";
 
 function Home() {
   return (
@@ -13,24 +14,20 @@ function Home() {
 
             <p className="mt-4 text-zinc-300">
               Desenvolvedor Full-Stack movido a{" "}
-              <span className="text-zinc-50 font-medium font-kare text-xl">
-                curiosidade
-              </span>
-              .{" "}
+              <KarenBold>curiosidade</KarenBold>.{" "}
             </p>
           </header>
         </div>
 
         <section className="flex flex-col gap-4 flex-grow max-w-7xl">
-          <div className="min-h-44">
-            <GameOfLife />
-          </div>
+          <GameOfLife />
           <div className="text-zinc-400">
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+            <p className="text-zinc-200">Apaixonado por arte.</p>
             <p>
-              Sed, tempore odio mollitia, eaque commodi explicabo placeat
-              numquam ad deleniti expedita minima sit delectus libero quisquam
-              aliquid assumenda fugit doloremque impedit.
+              Acredito que, onde há o toque do ser humano, inconsequentemente
+              existe <KarenBold>expressão</KarenBold>. Observo isso nas mais
+              antigas obras de arte. Os maiores museus do mundo estão rechados
+              com frutos do trabalho manual de marceneiros, pintores, vidreiros.
             </p>
           </div>
         </section>
