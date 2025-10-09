@@ -22,7 +22,7 @@ function Home() {
         </div>
 
         <section className="flex flex-col gap-4 flex-grow max-w-7xl">
-          <div className="min-h-44 lg:min-h-40">
+          <div className="min-h-44">
             <GameOfLife />
           </div>
           <div className="text-zinc-400">
