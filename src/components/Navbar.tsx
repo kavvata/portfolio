@@ -1,3 +1,5 @@
+import { KarenBold } from "./KarenBold";
+
 function Navbar() {
   return (
     <nav className="border-b border-zinc-800 bg-zinc-900/60 backdrop-blur sticky top-0 z-10">
@@ -11,7 +13,7 @@ function Navbar() {
               href="/portfolio/"
               className="hover:text-zinc-100 transition-colors"
             >
-              Home
+              <span className="font-kare text-lg">[h]</span> Home
             </a>
           </li>
           <li>
@@ -19,7 +21,15 @@ function Navbar() {
               href="/portfolio/experience/"
               className="hover:text-zinc-100 transition-colors"
             >
-              Experience
+              <span className="font-kare text-lg">[e]</span> Expêriencia
+            </a>
+          </li>
+          <li>
+            <a
+              href="/portfolio/experience/"
+              className="hover:text-zinc-100 transition-colors"
+            >
+              <span className="font-kare text-lg">[p]</span> Projetos
             </a>
           </li>
         </ul>
