@@ -1,7 +1,9 @@
 import GameOfLife from "../components/GameOfLife";
 import { KarenBold } from "../components/KarenBold";
+import imgURL from "../../public/cappella_sistina_halftone.png";
 
 function Home() {
+  const BASE_URL = import.meta.env.BASE_URL;
   return (
     <main className="flex-grow space-y-14 px-4 py-24 leading-relaxed">
       <div className="flex flex-col lg:flex-row lg:gap-8 lg:mx-16">
@@ -27,7 +29,23 @@ function Home() {
               Acredito que, onde há o toque do ser humano, inconsequentemente
               existe <KarenBold>expressão</KarenBold>. Observo isso nas mais
               antigas obras de arte. Os maiores museus do mundo estão rechados
-              com frutos do trabalho manual de marceneiros, pintores, vidreiros.
+              com produtos de marceneiros, pintores, vidreiros -{" "}
+              <KarenBold>Trabalho</KarenBold>.
+            </p>
+            <div className="mt-8 space-y-2">
+              <figure>
+                <img
+                  className="w-full"
+                  src={imgURL}
+                  alt="Imagem do teto da capela sistina."
+                />
+              </figure>
+              <p className="italic text-center text-sm text-zinc-500">
+                Exemplo de Trabalho.
+              </p>
+            </div>
+            <p>
+              O conceito do artista surgiu somente após a revolução industrial.
             </p>
           </div>
         </section>
