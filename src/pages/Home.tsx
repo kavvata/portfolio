@@ -43,7 +43,9 @@ function Home() {
         </section>
 
         <section className="flex flex-col gap-4 flex-grow max-w-7xl">
-          <GameOfLife />
+          <div className="p-1 md:p-0">
+            <GameOfLife />
+          </div>
           <div className="text-zinc-400">
             <p className="text-zinc-200">
               Entusiasta de arquiteturas escaláveis.
