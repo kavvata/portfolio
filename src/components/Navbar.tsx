@@ -1,5 +1,3 @@
-import { KareBold } from "./KareBold";
-
 function Navbar() {
   return (
     <nav className="border-b border-zinc-800 bg-zinc-900/60 backdrop-blur sticky top-0 z-10">

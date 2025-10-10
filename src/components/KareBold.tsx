@@ -1,5 +1,3 @@
-import type { PropsWithChildren } from "react";
-
 interface KareBoldProps extends React.PropsWithChildren {
   children: React.ReactNode;
 }
