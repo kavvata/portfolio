@@ -3,7 +3,6 @@ import { HashRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Footer from "./components/Footer";
 import Experience from "./pages/Experience";
-import Navbar from "./components/Navbar";
 import About from "./pages/About.tsx";
 import Projects from "./pages/Projects.tsx";
 import Blog from "./pages/Blog.tsx";
