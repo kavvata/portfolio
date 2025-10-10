@@ -49,22 +49,22 @@ function Home() {
               Entusiasta de arquiteturas escaláveis.
             </p>
             <p>
-              Busco projetar e implementar sistemas robustos, combinando boas
-              práticas de <KareBold>backend</KareBold>, automação e{" "}
-              <KareBold>observabilidade</KareBold>. Trabalho com ambientes{" "}
-              <KareBold>containerizados</KareBold> e fluxos de DevOps para criar
-              infraestruturas previsíveis, fáceis de manter e preparadas para
-              crescer com o produto.
+              Tenho interesse em sistemas que se sustentam no tempo, construídos
+              com boas práticas de <KareBold>backend</KareBold>, automação e{" "}
+              <KareBold>observabilidade</KareBold>. Trabalho em ambientes{" "}
+              <KareBold>containerizados</KareBold>, buscando previsibilidade,
+              manutenção simples e crescimento orgânico junto ao produto.
             </p>
             <p className="text-zinc-200 mt-8">
               Dedicado a interfaces que fazem sentido.
             </p>
             <p>
-              Busco criar experiências coerentes, onde cada elemento da
-              interface reflete uma intenção clara. Tenho interesse em{" "}
-              <KareBold>componentização</KareBold> e arquitetura de front-end
-              priorizando <KareBold>empatia</KareBold>{" "}
-              <KareBold>técnica</KareBold> e consistência na interação.
+              Busco enxergar o front-end como um espaço de equilíbrio entre
+              intenção e clareza. Gosto de pensar a{" "}
+              <KareBold>atomicidade</KareBold> e a arquitetura de interface como
+              meios de traduzir propósito, com{" "}
+              <KareBold>empatia técnica</KareBold> e consistência na
+              experiência.
             </p>
           </div>
         </section>
