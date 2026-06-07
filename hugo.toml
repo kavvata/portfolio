@@ -1,0 +1,14 @@
+baseURL = 'https://kavvata.neocities.org/'
+locale = 'en-us'
+title = "kavvata's portfolio"
+theme = 'dario'
+
+[languages]
+  [languages.en-us]
+    contentDir = 'content/en'
+    label = 'English'
+    weight = 10
+  [languages.pt-br]
+    contentDir = 'content/pt'
+    label = 'Português'
+    weight = 20
