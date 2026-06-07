@@ -1,3 +1,8 @@
++++
+date = 2025-10-08
+title = 'About Me'
++++
+
 ## Passionate about art.
 
 I believe that wherever there is a human touch, expression inevitably follows. I see this in the oldest works of art. The greatest museums in the world are filled with the products of carpenters, painters, glassmakers — labor.

@@ -8,4 +8,4 @@ I'm passionate about open source, system design and building software with socia
 
 ---
 
-[About me]({{< relref "about_me.md" >}}).
+[About me]({{< relref "posts/about_me.md" >}}).

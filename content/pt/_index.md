@@ -8,4 +8,4 @@ Sou entusiasta de código livre, de design de sistemas e de construir software c
 
 ---
 
-[Sobre mim]({{< relref "about_me.md" >}}).
+[Sobre mim]({{< relref "posts/about_me.md" >}}).

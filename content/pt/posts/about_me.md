@@ -1,3 +1,8 @@
++++
+date = 2025-10-08
+title = 'Sobre mim'
++++
+
 ## Apaixonado por arte.
 
 Acredito que, onde há o toque do ser humano, inconsequentemente existe expressão. Observo isso nas mais antigas obras de arte. Os maiores museus do mundo estão rechados com produtos de marceneiros, pintores, vidreiros - Trabalho.
