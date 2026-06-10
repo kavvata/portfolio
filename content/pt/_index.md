@@ -7,5 +7,3 @@ Sou um desenvolvedor backend e designer de sistemas. Atualmente, trabalho como e
 Sou entusiasta de código livre, de design de sistemas e de construir software com impacto social.
 
 ---
-
-[Sobre mim]({{< relref "posts/about_me.md" >}}).
