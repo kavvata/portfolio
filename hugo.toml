@@ -12,3 +12,7 @@ theme = 'dario'
     contentDir = 'content/pt'
     label = 'Português'
     weight = 20
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
