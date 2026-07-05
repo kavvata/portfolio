@@ -1,7 +1,7 @@
 baseURL = 'https://kavvata.neocities.org/'
 locale = 'en-us'
 title = "kavvata's portfolio"
-theme = 'dario'
+theme = 'shibui'
 
 [languages]
   [languages.en-us]
