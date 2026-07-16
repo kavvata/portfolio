@@ -10,4 +10,4 @@ I'm passionate about open source, system design and building software with socia
 
 ## Experiences
 
-- [Oct 2023 - Today: UNESPAR]({{< relref "experiences/unespar.md" >}})
+- [Oct 2023 - Oct 2025: UNESPAR]({{< relref "experiences/unespar.md" >}})

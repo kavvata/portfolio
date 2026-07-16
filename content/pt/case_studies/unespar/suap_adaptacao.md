@@ -1,3 +1,9 @@
++++
+title = 'Caso de Estudo: Adaptação de funcionalidades do SUAP'
+tags = ['caso de estudo', 'UNESPAR', 'Django', 'Python', 'SaaS', 'SUAP', 'Brownfield']
+draft = true
++++
+
 ## Primeiro deploy
 
 estudamos django por um mes, enquanto davamos andamento aos sistemas Java.
