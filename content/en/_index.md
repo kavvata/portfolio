@@ -2,7 +2,7 @@
 
 Code, infrastructure and public education
 
-I'm a backend-oriented developer and systems thinker. Currently, I work as a Data Engineer at [UNESPAR](https://unespar.edu.br), helping a public university translate it's deeply nested bureaucracies into [democratized processes](https://suap.unespar.edu.br).
+I'm a backend-oriented developer and systems thinker. Currently, I work as a Data Engineer at [UNESPAR](https://unespar.edu.br) and help the university to translate it's deeply nested bureaucracies into [democratized processes](https://suap.unespar.edu.br).
 
 I'm passionate about open source, system design and building software with social impact.
 
