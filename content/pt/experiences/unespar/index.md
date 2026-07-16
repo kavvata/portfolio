@@ -28,7 +28,7 @@ Porém, novos ares estavam por vir. Assim que o módulo estava pronto para entra
 
 Com isso, fui remanejado para a equipe responsável por [adaptar para a realidade da universidade]({{< relref "maintenance.md" >}}) esse sistema de 19 anos e ~2 milhões de linhas de código, além de desenvolver novas soluções.
 
-{{< video src=/images/unespar/suap-gource.mp4 width=400 >}}
+{{< video src=https://github.com/kavvata/portfolio/raw/refs/heads/v2/static/images/unespar/suap-gource.mp4 width=400 >}}
 
 ---
 

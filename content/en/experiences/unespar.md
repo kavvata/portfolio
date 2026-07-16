@@ -28,7 +28,7 @@ But new winds were coming. Right as the module was ready to merge into productio
 
 So I got reassigned to the team responsible for [adapting this 19-year-old, ~2 million line codebase to the university's reality]({{< relref "maintenance.md" >}}), on top of building new features.
 
-{{< video src=/images/unespar/suap-gource.mp4 width=400 >}}
+{{< video src=https://github.com/kavvata/portfolio/raw/refs/heads/v2/static/images/unespar/suap-gource.mp4 width=400 >}}
 
 ---
 
