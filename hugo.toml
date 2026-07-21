@@ -6,10 +6,12 @@ theme = 'shibui'
 [languages]
   [languages.en-us]
     contentDir = 'content/en'
+    languageName = 'English'
     label = 'English'
     weight = 10
   [languages.pt-br]
     contentDir = 'content/pt'
+    languageName = 'Português'
     label = 'Português'
     weight = 20
 
