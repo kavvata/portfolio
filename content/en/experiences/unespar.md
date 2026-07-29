@@ -18,6 +18,7 @@ There were days I'd show up right when the gates opened, and between tickets and
 During this period, I learned to work with more autonomy, got familiar with the infrastructure, rolled out new administrative tools, and fell in love with serving the academic community.
 
 ## Part 2. Back-end developer
+
 In April 2024, I got moved to intern with UNESPAR's software development team, where I became responsible for developing the [Employee Performance Evaluation Module]({{< relref "maintenance.md" >}}), part of the university's Administrative Management System (SGA).
 
 ![SGA screenshot: Employee evaluation listing](/images/unespar/sga-cpa.png)
@@ -38,10 +39,10 @@ While interning on SUAP development, I ended up [preparing and teaching]({{< rel
 
 By the end of the training, each analyst had closed a real support ticket from the system's backlog.
 
-## Part 3.
+## Part 3. Until next time!
 
 In October 2025 I said goodbye to the team that took me in and trusted my potential as a developer since the days I was cleaning out computer cases!
 
-I'm still grateful, to this day, for all the challenges and for the chance to put my expertise to work alongside public education. Without this experience, I wouldn't be half the professional I am now.
+I'm still grateful, to this day, for all the challenges and for the chance to put my expertise to work alongside public education. Without this experience, I wouldn't be half the professional I am nowadays.
 
 ---

@@ -18,11 +18,12 @@ Já cheguei a entrar logo que os portões abriam e, entre chamados e eventos aca
 Durante esse período, aprendi a trabalhar com mais autonomia, conhecer a infraestrutura, implantar novas ferramentas administrativas e me encantar por servir a comunidade acadêmica.
 
 ## Parte 2. Desenvolvedor back-end
+
 Em abril de 2024, fui alocado para estagiar com a equipe de desenvolvimento de software da UNESPAR, onde fiquei responsável pelo desenvolvimento do [Módulo de Avaliação de Desempenho de Funcionários]({{< relref "maintenance.md" >}}), no Sistema de Gestão Administrativa da universidade.
 
 ![Captura de tela do SGA: Listagem de avaliações de funcionário](/images/unespar/sga-cpa.png)
 
-Porém, novos ares estavam por vir. Assim que o módulo estava pronto para entrar em produção, a UNESPAR foi conveniada para o uso do código fonte do [SUAP](https://portal.suap.ifrn.edu.br/). 
+Porém, novos ares estavam por vir. Assim que o módulo estava pronto para entrar em produção, a UNESPAR foi conveniada para o uso do código fonte do [SUAP](https://portal.suap.ifrn.edu.br/).
 
 ![Captura de tela de login SUAP](/images/unespar/suap_unespar.png)
 
@@ -38,7 +39,7 @@ Enquanto estagiava no desenvolvimento do SUAP, fiquei responsável por [preparar
 
 No final desse treinamento, cada analista fechou ticket real de atendimento das demandas do sistema.
 
-## Parte 3.
+## Parte 3. Até logo!
 
 Em outubro de 2025 me despedi da equipe que me acolheu e confiou no meu potencial como desenvolvedor desde quando eu limpava gabinetes!
 
