@@ -1,4 +1,4 @@
-baseURL = 'https://kavvata.neocities.org/'
+baseURL = 'https://kavvata.dev/'
 locale = 'en-us'
 title = "kavvata's portfolio"
 theme = 'shibui'
