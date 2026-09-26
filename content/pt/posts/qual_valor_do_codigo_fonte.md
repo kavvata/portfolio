@@ -1,0 +1,44 @@
++++
+date = '2026-09-25T23:28:53-03:00'
+draft = false
+title = 'Qual o valor do código-fonte?'
++++
+
+Antes da programação agêntica, o valor do código-fonte já era discutido. Isso não é de agora. A virada de contexto atual vem sido discutida desde 1985, com o artigo [Programação como Construção de Teoria](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
+
+---
+
+## Teoria?
+
+Nesse artigo, Naur argumenta que o código fonte tem pouco -- se não nenhum -- valor. Para Naur, o que trás valor à um projeto de software é o entendimento do desenvolvedor sobre o `problema` e como o `produto` de software interage com esse problema.
+Esse entendimento -- chamado de `teoria` -- é o fator determinante para decidir como o código-fonte deve ser escrito, de forma que o mesmo não se torne bagunçado e difícil de realizar manutenções no futuro.
+
+Para isso, o desenvolvedor deve compreender o máximo de facetas sobre o problema, quem são os usuários finais do `produto` e ter domínio da engenharia de software.
+Esse artigo identifica que o código-fonte e a documentação são ineficazes em transmitir a `teoria` de um desenvolvedor para outro. Naur defende que somente a `comunicação` clara entre a equipe de desenvolvedores, a equipe de gestores e os usuários finais pode fornecer os fundamentos para que um desenvolvedor construa sua própria `teoria`.
+
+Por exemplo: o código-fonte e a documentação são "fotografias" da `teoria` dos desenvolvedores. Paradas, congeladas no tempo, enquanto o `problema` é um processo, evoluindo e se transformando constantemente na vida real, junto com a `teoria` de cada pessoa da equipe. Por conta disso, a `teoria` determina como o código-fonte deve ser atualizado.
+
+```
+teoria = produto vs problema
+```
+
+## O desenvolvedor foi substituído?
+
+A pandemia apenas endossou os argumentos de Naur, 35 anos depois de sua publicação. O lockdown aumentou exponencialmente o uso da internet. A demanda de desenvolvimento de software aumentou, junto com o ingresso de juniores no mercado. O mercado de tecnologia se viu inundado de startups com `produto` mediano, a escrita do código-fonte tornou-se um gargalo para a indústria e as práticas de crunch ganharam espaço nas empresas de software. Essa instabilidade fez com que o desenvolvedor que dominava a escrita de código-fonte, mas com pouca `teoria` e pouca `comunicação` tivessem dificuldades para se destacar no mercado. Um blog que ilustra a dinâmica dessa época é o [Code is more run than read (2023)](https://olano.dev/blog/code-is-run-more-than-read/) do Olano.
+
+Já no pós-pandemia, tivemos contato com o uso de LLMs para desenvolvimento de software. O código-fonte mediano, agora, pode ser gerado em alguns minutos comparado com a época anterior: onde levava-se dias para atender as mesmas tarefas com prazos apertados. Isso eliminou aquele gargalo de escrita de código-fonte, mas o modelo de negócio permaneceu o mesmo: botar `produto` mediano em produção. Junto com o gargalo, essa mudança levou aqueles desenvolvedores que apresentavam pouca `teoria` construída através de lay-offs.
+
+```
+teoria > código-fonte
+```
+
+## Qual o futuro do desenvolvedor?
+
+Hoje em dia, muitas discussões sobre como será o futuro do desenvolvimento gira em torno do conceito de devs interdisciplinares. Como soluções de software podem ser geradas rapidamente, o desenvolvedor deve ir além do conhecimento técnico.
+Isto é, tudo indica que o dev do futuro deve conhecer bem todas as partes do `produto`, como o mesmo interage com o `problema` e `comunicar` essa interação com clareza para as partes interessadas. Aliado a isso, o dev do futuro aplica de boas praticas de engenharia de software para que o `produto` continue sendo fácil de manter no futuro, mesmo quando utilizando máquinas de geração de código-fonte mediano.
+
+Ou seja, o dev do futuro é o mesmo dev de 1985, aquele que tem uma boa `teoria` construída:
+
+```
+teoria + comunicação + engenharia = valor
+```
