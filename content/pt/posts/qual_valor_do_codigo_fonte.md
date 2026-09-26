@@ -10,10 +10,10 @@ Antes da programação agêntica, o valor do código-fonte já era discutido. Is
 
 ## Teoria?
 
-Nesse artigo, Naur argumenta que o código fonte tem pouco -- se não nenhum -- valor. Para Naur, o que trás valor à um projeto de software é o entendimento do desenvolvedor sobre o `problema` e como o `produto` de software interage com esse problema.
+Nesse artigo, Naur argumenta que o código-fonte tem pouco -- se não nenhum -- valor. Para Naur, o que trás valor à um projeto de software é o entendimento do desenvolvedor sobre o `problema` e como o `produto` de software interage com esse problema.
 Esse entendimento -- chamado de `teoria` -- é o fator determinante para decidir como o código-fonte deve ser escrito, de forma que o mesmo não se torne bagunçado e difícil de realizar manutenções no futuro.
 
-Para isso, o desenvolvedor deve compreender o máximo de facetas sobre o problema, quem são os usuários finais do `produto` e ter domínio da engenharia de software.
+Para isso, o desenvolvedor deve compreender o máximo de facetas do problema, quem são os usuários finais do `produto` e ter domínio da engenharia de software.
 Esse artigo identifica que o código-fonte e a documentação são ineficazes em transmitir a `teoria` de um desenvolvedor para outro. Naur defende que somente a `comunicação` clara entre a equipe de desenvolvedores, a equipe de gestores e os usuários finais pode fornecer os fundamentos para que um desenvolvedor construa sua própria `teoria`.
 
 Por exemplo: o código-fonte e a documentação são "fotografias" da `teoria` dos desenvolvedores. Paradas, congeladas no tempo, enquanto o `problema` é um processo, evoluindo e se transformando constantemente na vida real, junto com a `teoria` de cada pessoa da equipe. Por conta disso, a `teoria` determina como o código-fonte deve ser atualizado.
