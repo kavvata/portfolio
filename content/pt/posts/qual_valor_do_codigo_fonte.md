@@ -4,7 +4,7 @@ draft = false
 title = 'Qual o valor do código-fonte?'
 +++
 
-Antes da programação agêntica, o valor do código-fonte já era discutido. Isso não é de agora. A virada de contexto atual vem sido discutida desde 1985, com o artigo [Programação como Construção de Teoria](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
+Quanto você paga em assinatura? Dá pra somar: streaming, academia, app de música. Por trás de cada um desses serviços, existe um código-fonte. Quanto vale um código-fonte? Com a IA gerando código em minutos, essa pergunta ficou mais difícil de responder. E a discussão nem é nova: está em curso desde 1985, com o artigo [Programação como Construção de Teoria](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
 
 ---
 
