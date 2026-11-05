@@ -6,14 +6,12 @@ I'm a backend-oriented developer and systems thinker. Currently, I work as a Dat
 
 I'm passionate about open source, system design and building software with social impact.
 
----
-
 ## Experiences
 
 - [Oct 2023 - Oct 2025: UNESPAR]({{< relref "experiences/unespar.md" >}})
 
----
-
 ## Latest posts
 
 {{< recent_posts >}}
+
+---

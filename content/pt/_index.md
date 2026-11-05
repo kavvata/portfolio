@@ -6,14 +6,12 @@ Sou um desenvolvedor backend e designer de sistemas. Atualmente, trabalho como e
 
 Sou entusiasta de código livre, de design de sistemas e de construir software com impacto social.
 
----
-
 ## Experiências
 
 - [Out 2023 - Out 2025: UNESPAR]({{< relref "experiences/unespar.md" >}})
 
----
-
 ## Últimos posts
 
 {{< recent_posts >}}
+
+---
