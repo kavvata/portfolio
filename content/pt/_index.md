@@ -11,3 +11,9 @@ Sou entusiasta de código livre, de design de sistemas e de construir software c
 ## Experiências
 
 - [Out 2023 - Out 2025: UNESPAR]({{< relref "experiences/unespar.md" >}})
+
+---
+
+## Últimos posts
+
+{{< recent_posts >}}

@@ -1,0 +1,12 @@
+{{- $fmt := "Jan 2, 2006" -}}
+{{- if hasPrefix site.Language.Lang "pt" -}}
+{{- $fmt = "02/01/2006" -}}
+{{- end -}}
+{{- $posts := where site.RegularPages "Section" "posts" | first 3 -}}
+{{- if $posts -}}
+<ul>
+{{- range $posts }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format $fmt }})</li>
+{{- end }}
+</ul>
+{{- end -}}
