@@ -4,7 +4,7 @@ draft = false
 title = 'What is the value of source code?'
 +++
 
-How much do you pay in subscriptions? You can add them up: streaming, a music app, cloud storage. Behind each of those services there is source code. How much is source code worth? With AI generating code in minutes, this question has become harder to answer. And the discussion is not new: it has been unfolding since 1985, with the paper [Programming as Theory Making](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
+How much do you pay in subscriptions? You can add them up: streaming, a music app, cloud storage. Behind each of those services there is source code. How much is source code worth? With AI generating code in minutes, this question has become harder to answer. And the discussion is not new: it can be traced back to 1985, with the paper [Programming as Theory Making](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
 
 ---
 
