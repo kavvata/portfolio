@@ -1,8 +1,8 @@
 ## Hi, I'm Gabriel Kavata
 
-Code, infrastructure and public education
+Data, AI and public education
 
-I'm a backend-oriented developer and systems thinker. Currently, I work as a Data Engineer at [UNESPAR](https://unespar.edu.br) and help the university to translate it's deeply nested bureaucracies into [democratized processes](https://suap.unespar.edu.br).
+I'm an agent infrastructure engineer. Currently, I work at [UNESPAR](https://unespar.edu.br) building the data lakehouse and an autonomous agent environment that handles data collection and transformation for the university's teaching KPIs.
 
 I'm passionate about open source, system design and building software with social impact.
 
