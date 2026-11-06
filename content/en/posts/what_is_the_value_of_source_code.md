@@ -35,7 +35,7 @@ theory > source code
 ## What is the future of the developer?
 
 These days, many discussions about the future of development revolve around the concept of the interdisciplinary developer. Since software solutions can be generated quickly, the developer must go beyond technical knowledge.
-That is to say, all signs point to the developer of the future knowing all the parts of the `product` well, how it interacts with the `problem`, and `communicating` that interaction clearly to the stakeholders. On top of that, the developer of the future applies good software engineering practices so that the `product` continues to be easy to maintain in the future, even when relying on machines that generate mediocre source code.
+That is to say, all signs point to the developer of the future knowing all the parts of the `product` well, how it interacts with the `problem`, and `communicating` that interaction clearly to the stakeholders. On top of that, the developer of the future applies good software engineering practices so that the `product` continues to be easy to maintain in the future, even when relying on [machines that generate mediocre source code](https://arxiv.org/abs/2603.27249).
 
 In other words, the developer of the future is the same developer from 1985, the one with a well-built `theory`:
 
