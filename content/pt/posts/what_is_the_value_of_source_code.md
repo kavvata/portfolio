@@ -34,7 +34,7 @@ teoria > código-fonte
 
 ## Qual o futuro do desenvolvedor?
 
-Hoje em dia, muitas discussões sobre como será o futuro do desenvolvimento gira em torno do conceito de devs interdisciplinares. Como soluções de software podem ser geradas rapidamente, o desenvolvedor deve ir além do conhecimento técnico.
+Hoje em dia, muitas discussões sobre como será o futuro do desenvolvimento gira em torno do conceito de [devs interdisciplinares](https://jurnal.ilcagam.org/index.php/jsti/article/view/34). Como soluções de software podem ser geradas rapidamente, o desenvolvedor deve ir além do conhecimento técnico.
 Isto é, tudo indica que o dev do futuro deve conhecer bem todas as partes do `produto`, como o mesmo interage com o `problema` e `comunicar` essa interação com clareza para as partes interessadas. Aliado a isso, o dev do futuro aplica de boas praticas de engenharia de software para que o `produto` continue sendo fácil de manter no futuro, mesmo quando utilizando [máquinas de geração de código-fonte mediano](https://arxiv.org/abs/2603.27249).
 
 Ou seja, o dev do futuro é o mesmo dev de 1985, aquele que tem uma boa `teoria` construída:
